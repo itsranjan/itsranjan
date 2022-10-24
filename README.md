@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about any thing
 - 📫 How to reach me: itsranjann@gmail.com
 - 😄 Pronouns: PRABHAT RANJAN
-- ⚡ Fun fact: Rajendra is my dad
+- ⚡ Fun fact: 
 
