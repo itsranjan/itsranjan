@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me [**itsranjan@gmail.com**](itsranjan@gmail.com)
+- 📫 How to reach me [**itsranjan@gmail.com**](itsranjann@gmail.com)
 
 - 📄 Know about my experiences [RESUME](#)
 
