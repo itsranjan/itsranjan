@@ -4,7 +4,7 @@
 
 <h3 align="center">I’m a Developer.</h3>
 <h3 align="center">Currently into B.Tech in CSE Branch at ITER 2020-24, SOA University🎓 !</h3>
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenacteservices.com%2Fhire%2Fshopify-app-developer%2F&psig=AOvVaw3cWfbBAHbaSGnbagSxdU5w&ust=1667034485563000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiex8TJgvsCFQAAAAAdAAAAABAE" width ="500px">
+<img align="right" alt="coding" src="https://res.cloudinary.com/dhyqdexrc/image/upload/v1666948465/animation_500_l4zc9j5g_km8egk.gif" width ="500px">
 
 
 
