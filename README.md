@@ -1,10 +1,10 @@
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenacteservices.com%2Fhire%2Fshopify-app-developer%2F&psig=AOvVaw3cWfbBAHbaSGnbagSxdU5w&ust=1667034485563000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiex8TJgvsCFQAAAAAdAAAAABAE" width =auto >
+<img align="right" alt="coding" src="https://4.bp.blogspot.com/-6vGvy4vCcvE/Xdcwnaf7XzI/AAAAAAAANZM/Io2mm8SXjmUVCo60byOn-XpLUpn54nizACLcBGAsYHQ/s1600/image1.gif" width =auto >
 <h1 align="center">Hi 
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Prabhat Ranjan</h1>
 
 <h3 align="center">I’m a Developer.</h3>
 <h3 align="center">Currently into B.Tech in CSE Branch at ITER 2020-24, SOA University🎓 !</h3>
-<img align="right" alt="coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width ="500px">
+<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenacteservices.com%2Fhire%2Fshopify-app-developer%2F&psig=AOvVaw3cWfbBAHbaSGnbagSxdU5w&ust=1667034485563000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiex8TJgvsCFQAAAAAdAAAAABAE" width ="500px">
 
 
 
